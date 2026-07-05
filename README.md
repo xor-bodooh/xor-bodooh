@@ -5,6 +5,7 @@
 
 **Languages**
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,python,bash,dart,flutter)
+
 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite,js" alt="HTML, CSS, Tailwind, React, Next.js,vite" />
 **Other**
